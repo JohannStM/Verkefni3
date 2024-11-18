@@ -18,23 +18,7 @@ STAT 720 1 0 671459 204077 671793 204640 305 27  #   \\ botndypi_kastad= 266 bot
 STAT 720 11 0 671824 204178 672004 203262 136 32  #   \\ botndypi_kastad= 329 botndypi_hift= 352 \\
 STAT 720 13 0 670918 202778 671006 201786 254 24  #   \\ botndypi_kastad= 234 botndypi_hift= 250 \\
 STAT 719 1 0 671567 194988 671897 194408 149 29  #   \\ botndypi_kastad= 282 botndypi_hift= 347 \\
-STAT 719 11 0 670710 193187 670982 192445 64 36  #  Drulla í poka \\ botndypi_kastad= 368 botndypi_hift= 451 \\
-STAT 719 2 0 670889 194927 670597 195602 67 29  #   \\ botndypi_kastad= 300 botndypi_hift= 287 \\
-STAT 720 12 0 670465 200966 670189 201701 52 28  #   \\ botndypi_kastad= 281 botndypi_hift= 275 \\
-STAT 670 5 0 665783 202234 665573 203097 96 27  #   \\ botndypi_kastad= 266 botndypi_hift= 278 \\
-STAT 670 3 0 665074 204067 664804 204808 76 28  #   \\ botndypi_kastad= 295 botndypi_hift= 281 \\
-STAT 671 15 0 664295 205979 663986 210603 502 23  #   \\ botndypi_kastad= 224 botndypi_hift= 197 \\
-STAT 670 12 0 663515 202618 663693 201721 1409 26  #   \\ botndypi_kastad= 285 botndypi_hift= 200 \\
-STAT 670 1 0 663383 201347 663639 200579 250 13  #   \\ botndypi_kastad= 83 botndypi_hift= 110 \\
-STAT 670 14 0 664001 201759 664203 200894 960 27  #   \\ botndypi_kastad= 282 botndypi_hift= 238 \\
-STAT 670 2 0 663874 200019 664271 200026 1493 16  #   \\ botndypi_kastad= 124 botndypi_hift= 152 \\
-STAT 669 13 0 664513 195663 664700 194769 524 25  #   \\ botndypi_kastad= 237 botndypi_hift= 277 \\
-STAT 669 3 0 664228 194346 663878 194827 386 18  #   \\ botndypi_kastad= 154 botndypi_hift= 141 \\
-STAT 669 2 0 663517 193996 663870 193526 269 23  #   \\ botndypi_kastad= 225 botndypi_hift= 222 \\
-STAT 669 1 0 664393 193112 664688 193779 376 24  #   \\ botndypi_kastad= 235 botndypi_hift= 220 \\
-STAT 669 12 0 664897 192202 664567 192110 117 31  #  Híft e 3,3 sml, snúið á væng \\ botndypi_kastad= 323 botndypi_hift= 319 \\
-STAT 669 4 0 664059 191357 663817 191556 99 31  #  híft eftir 2,5 sjm tók í b.b hlera \\ botndypi_kastad= 335 botndypi_hift= 292 \\
-STAT 669 11 0 663378 192192 662990 192406 132 30  #   \\ botndypi_kastad= 309 botndypi_hift= 306 \\
+
 PORT 661066 185279 "Siglufjörður" 1 
 PORT 661066 185279 "Siglufjörður" 1 
 PORT 661066 185279 "Siglufjörður" 1 
